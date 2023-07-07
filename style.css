@@ -1,0 +1,12 @@
+#busca form #campo{
+    height: 60px ;
+    width: 250px;
+    border-radius: 40px;
+}
+
+
+#busca form #campo::placeholder{
+    background-color: rgb(215, 204, 204);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
